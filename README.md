@@ -71,19 +71,11 @@ A basic Trello/Asana clone built with MERN stack for managing team boards and ta
 
 ## Usage
 
-1. **Seed the database** (optional): Run `node seed.js` to populate with sample data
-2. Create a new board from the home page
-3. Click on a board to view its tasks
-4. Use the "Create Task" button to add new tasks
-5. Edit or delete tasks using the buttons on each task card
-6. Tasks are automatically grouped by status columns
-
-## Sample Data
-
-After running the seed script, you'll have:
-- **4 Boards**: Frontend Development, Backend Development, Marketing Campaign, Design Tasks
-- **9 Tasks** with various statuses (To Do, In Progress, Done) and priorities (Low, Medium, High)
-- Tasks include descriptions, assigned users, and due dates
+1. Create a new board from the home page
+2. Click on a board to view its tasks
+3. Use the "Create Task" button to add new tasks
+4. Edit or delete tasks using the buttons on each task card
+5. Tasks are automatically grouped by status columns
 
 ## Project Structure
 
